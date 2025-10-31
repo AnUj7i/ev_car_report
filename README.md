@@ -38,6 +38,20 @@ This project explores historical EV market data (2010–2024) to:
 
 ---
 
+## Analaysis of trend 
+
+<img width="1190" height="590" alt="EV adoption over time" src="https://github.com/user-attachments/assets/8f831149-8292-443d-92b3-8dbefcf6bf92" />
+
+# it’s clear that EV adoption has been increasing over time, especially noting a significant upward trend starting around 2016. The number of vehicles registered grows modestly up until that point and then begins to rise more rapidly from 2017 onwards. The year 2023 shows a particularly sharp increase in the number of registered EVs, with the bar for 2023 being the highest on the graph, indicating a peak in EV adoption.
+
+## top 3 counties based on EV registrations
+
+<img width="1189" height="790" alt="top 4 model" src="https://github.com/user-attachments/assets/290f8f07-3ff4-43c1-ad6c-7f6dc7d8e649" />
+
+## Market Size Analysis of Electric Vehicles 
+<img width="1025" height="699" alt="estimated market" src="https://github.com/user-attachments/assets/393d30ec-9879-4c21-bdff-275fc85c1890" />
+
+
 📈 Dashboard Preview
 
 An interactive Tableau dashboard highlights:
@@ -58,8 +72,8 @@ Regional adoption comparisons
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/EV-Market-Size-Analysis.git
-cd EV-Market-Size-Analysis
+git clone https://github.com/AnUj7i/ev_car_report.git
+cd ev_car_Report
 
 ## 📊 Key Insights
 
