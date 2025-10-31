@@ -38,7 +38,7 @@ st.markdown("""
 # ------------------------------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data\preprocess data\new_ev_data.csv")
+   df = pd.read_csv("data/preprocess data/new_ev_data.csv")
     df.columns = df.columns.str.strip().str.title()  # Clean column names
     return df
 
